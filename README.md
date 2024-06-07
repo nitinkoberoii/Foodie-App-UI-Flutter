@@ -10,6 +10,7 @@ This project was made as the part of practicing Flutter App Development. The add
 pub.dev link for like_button package: https://pub.dev/packages/like_button .
 
 Screenshots:-
+![Screenshot 2024-06-06 011302](https://github.com/nitinkoberoii/Foodie-App-UI-Flutter/assets/134691738/a92b412f-e315-48cb-a2c6-ffe85f49982a)
 
 ![image](https://github.com/nitinkoberoii/Foodie-App-UI-Flutter/assets/134691738/2ab59590-a44e-4fa7-b379-bbd1f2150e74)
 ![image](https://github.com/nitinkoberoii/Foodie-App-UI-Flutter/assets/134691738/13b4b801-fd4d-45f3-beab-613c7e831fc2)
