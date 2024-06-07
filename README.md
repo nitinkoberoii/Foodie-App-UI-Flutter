@@ -1,16 +1,17 @@
-# food_app
+# Foodie-App-UI-Flutter
 
-A new Flutter project.
+This Foodie App UI is inspired by the Food delivery app Ui kit designed on Figma by Marvis.
+Figma Link: https://www.figma.com/community/file/893381127703378146/food-delivery-app-ui-kit?searchSessionId=lx38ai85-bmr9g310bnv .
 
-## Getting Started
+This project is not a full-fledged application, i.e., it does not contains any codes for backend.
+Also, not all the components of this app are functional, its mostly just the UI.
 
-This project is a starting point for a Flutter application.
+This project was made as the part of practicing Flutter App Development. The additional package used was like_button v2.0.5.
+pub.dev link for like_button package: https://pub.dev/packages/like_button .
 
-A few resources to get you started if this is your first Flutter project:
+Images:-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image_2024-06-07_180948943](https://github.com/nitinkoberoii/Foodie-App-UI-Flutter/assets/134691738/057ded15-e130-428c-b258-780886309c5a)  ![image_2024-06-07_181105246](https://github.com/nitinkoberoii/Foodie-App-UI-Flutter/assets/134691738/a02edf41-d617-4c14-a980-0bc5c03b478a)  ![image_2024-06-07_181203816](https://github.com/nitinkoberoii/Foodie-App-UI-Flutter/assets/134691738/ab4c3327-e70c-4bd2-bdd9-70b8599817a0)  ![image_2024-06-07_181315680](https://github.com/nitinkoberoii/Foodie-App-UI-Flutter/assets/134691738/fe1d595c-c1df-4b18-bddd-c57d85789a7a)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Video:-
+https://github.com/nitinkoberoii/Foodie-App-UI-Flutter/assets/134691738/3d7a89fd-5a1c-4469-b32a-2c2b8e7242f1
