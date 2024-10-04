@@ -1,7 +1,5 @@
 # Foodie-App-UI-Flutter
 
------ DM for code ----
-
 This Foodie App UI is inspired by the Food delivery app Ui kit designed on Figma by Marvis.
 Figma Link: https://www.figma.com/community/file/893381127703378146/food-delivery-app-ui-kit?searchSessionId=lx38ai85-bmr9g310bnv .
 
